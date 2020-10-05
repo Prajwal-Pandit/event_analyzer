@@ -1,0 +1,19 @@
+{
+  "name": "event-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prajwal-Pandit/event_analyzer.git"
+  },
+  "author": "Sushant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prajwal-Pandit/event_analyzer/issues"
+  },
+  "homepage": "https://github.com/Prajwal-Pandit/event_analyzer#readme"
+}
